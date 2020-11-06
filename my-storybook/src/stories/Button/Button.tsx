@@ -7,6 +7,7 @@ export interface ButtonProps {
 	className: string,
 	disabled: boolean,
 	active: boolean,
+	[propName: string]: any,
 }
 
 export const Button: React.FC<ButtonProps> = ({

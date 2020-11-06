@@ -24,7 +24,12 @@ Disabled_button.args = {
 	disabled: true,
 };
 
-export const Active_button= Template.bind({});
+export const Active_button = Template.bind({});
 Active_button.args = {
 	active: true,
+};
+
+export const Supporting_etc_attributes = Template.bind({});
+Supporting_etc_attributes.args = {
+	type: 'submit',
 };
