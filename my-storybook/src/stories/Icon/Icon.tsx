@@ -56,16 +56,8 @@ export const Icon: React.FC<IconProps> = ({
 		}
 	};
 
-	const ShowIcon = (name: string) => {
-		return (
-			<span>
-				{ChooseIcon(name)}
-			</span>
-		)
-	};
-
 	return (
-		<p>{ShowIcon(name)}</p>
+		<span>{ChooseIcon(name)}</span>
 	);
 };
 
