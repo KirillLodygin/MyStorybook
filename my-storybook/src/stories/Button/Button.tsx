@@ -2,7 +2,7 @@ import React from 'react';
 import './button.sass';
 
 export interface ButtonProps {
-	label: string | number,
+	label?: string | number,
 	onClick: () => void,
 	className: string,
 	disabled: boolean,
