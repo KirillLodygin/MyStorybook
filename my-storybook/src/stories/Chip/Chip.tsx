@@ -57,7 +57,7 @@ export const Chip: React.FC<ChipProps> = ({
 			{withImage
 			&& (
 				<span className="chipImage">
-          <Image src={imageSrc} alt={imgAlt} width={24} height={24} circle={true} className=''/>
+          <Image src={imageSrc} alt={imgAlt} width={26} height={26} circle={true} className=''/>
         </span>
 			)
 			}
