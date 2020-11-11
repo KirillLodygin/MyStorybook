@@ -2,7 +2,6 @@ import React from 'react';
 import './icon.css';
 import { FaSkyatlas, FaAtlas } from 'react-icons/fa';
 import { DiAtom } from 'react-icons/di';
-//import { BiAlignLeft, BiAlignMiddle, BiAlignJustify, BiAlignRight } from 'react-icons/bi';
 
 export interface IconProps {
 	name: 'sky' | 'atlas' | 'atom',
