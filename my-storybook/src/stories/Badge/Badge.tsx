@@ -10,29 +10,19 @@ const Icon: React.FC<IconProps> = ({className}) => {
 	return <BsFillEnvelopeOpenFill className={className}/>
 };
 
-interface ButtonProps {
-	className: string
-}
-
-const Button: React.FC<ButtonProps> = ({className}) => {
-	return <Button className={className}/>
-};
-
 export interface BadgeProps {
 	value: string | number,
 	circle: boolean,
 	className: string,
 	inline: boolean,
 	outer: boolean,
-	iconName: 'badgeIcon',
-	buttonName: 'badgeButton',
+	iconName: string,
 
 	[propName: string]: any
 }
 
 export const Badge: React.FC<BadgeProps> = ({
-												buttonName,
-												iconName,
+												iconName = 'badgeIcon',
 												value,
 												className = 'badge',
 												circle = false,
@@ -42,10 +32,13 @@ export const Badge: React.FC<BadgeProps> = ({
 											}) => {
 
 	return (
-		<Button className={buttonName}>
-			<Icon className={iconName}/>
+		<button>
+			<Icon className={[iconName,
+				(inline) ? 'large' : ''
+			].join(' ')}/>
 			<span
 				className = {[className,
+					(!value) ? 'badge_display' : '',
 					(typeof value === 'string') ? 'text' : '',
 					(circle) ? 'badge_circle' : '',
 					(inline) ? 'inline' : '',
@@ -59,6 +52,6 @@ export const Badge: React.FC<BadgeProps> = ({
 			>
 				{value}
 			</span>
-		</Button>
+		</button>
 	);
 };

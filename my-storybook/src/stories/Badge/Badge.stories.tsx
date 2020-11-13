@@ -11,7 +11,12 @@ export default {
 	},
 } as Meta;
 
-export const Template: Story<BadgeProps> = args => <Badge {...args}/>;
+const Template: Story<BadgeProps> = args => <Badge {...args}/>;
+
+export const Badge_without_text = Template.bind({});
+Badge_without_text.args = {
+	value: ''
+};
 
 export const Badge_with_text = Template.bind({});
 Badge_with_text.args = {

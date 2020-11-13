@@ -16,6 +16,9 @@
   font-weight: 600
   text-align: center
 
+.badge_display
+  display: none
+
 .inline
   position: static
   display: inline-block
@@ -23,6 +26,7 @@
 
 .text
   width : auto
+  padding: 4px
 
 .badge_circle
   border-radius: 50%
@@ -69,13 +73,22 @@
   border-color: #08C008
 
 .outer.info
-  color: #23C9FF
-  border-color: #23C9FF
+  color: #214aff
+  border-color: #214aff
 
 .badgeIcon
+  position: relative
   font-size: medium
 
-.badgeButton
-  background-color: #23C9FF
+.badgeIcon.large
+  font-size: large
+  top: 4px
+
+button
+  position: relative
+  background-color: #7CC6fE
   color: whitesmoke
+  padding: 10px 15px
+  border: none
+  border-radius: 5px
   cursor: pointer
