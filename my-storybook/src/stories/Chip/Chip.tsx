@@ -1,6 +1,6 @@
 import React from 'react';
 import {GiAnarchy} from "react-icons/gi";
-import { AiFillCloseCircle } from "react-icons/ai";
+import {AiFillCloseCircle} from "react-icons/ai";
 import './chip.sass';
 
 import {Image} from '../Image/Image';

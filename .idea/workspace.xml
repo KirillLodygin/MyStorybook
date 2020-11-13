@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="602e43a1-0739-463f-814e-b4073f86ebf3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/my-storybook/src/stories/Badge/Badge.stories.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-storybook/src/stories/Badge/Badge.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-storybook/src/stories/Badge/badge.sass" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-storybook/src/stories/Button.stories.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-storybook/src/stories/Button.tsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/my-storybook/src/stories/Chip/Chip.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/my-storybook/src/stories/Chip/Chip.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-storybook/src/stories/Chip/chip.sass" beforeDir="false" afterPath="$PROJECT_DIR$/my-storybook/src/stories/Chip/chip.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-storybook/src/stories/Header.stories.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-storybook/src/stories/Header.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-storybook/src/stories/Page.stories.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-storybook/src/stories/Page.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-storybook/src/stories/header.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-storybook/src/stories/page.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-storybook/src/stories/Icon/icon.sass" beforeDir="false" afterPath="$PROJECT_DIR$/my-storybook/src/stories/Icon/icon.sass" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,56 +23,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/Chip/chip.sass">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/Introduction.stories.mdx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1683" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/Button/button.sass">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/Icon/icon.sass">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/Chip/Chip.tsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="59" column="54" selection-start-line="59" selection-start-column="54" selection-end-line="59" selection-end-column="54" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/Image/Image.stories.tsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="35" column="94" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="94" />
+            <state relative-caret-position="170">
+              <caret line="55" column="76" selection-start-line="55" selection-start-column="66" selection-end-line="55" selection-end-column="76" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -88,8 +37,41 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/Chip/Chip.stories.tsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="41" column="20" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
+            <state relative-caret-position="255">
+              <caret line="15" selection-start-line="15" selection-end-line="15" selection-end-column="48" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/Badge/badge.sass">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="8" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/Badge/Badge.stories.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1802">
+              <caret line="106" column="2" lean-forward="true" selection-start-line="106" selection-start-column="2" selection-end-line="106" selection-end-column="2" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/Badge/Badge.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="32" column="45" lean-forward="true" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -139,11 +121,14 @@
         <option value="$PROJECT_DIR$/my-storybook/src/stories/Image/image.sass" />
         <option value="$PROJECT_DIR$/my-storybook/src/stories/Image/Image.tsx" />
         <option value="$PROJECT_DIR$/my-storybook/src/stories/Image/Image.stories.tsx" />
-        <option value="$PROJECT_DIR$/my-storybook/src/stories/Icon/icon.sass" />
         <option value="$PROJECT_DIR$/my-storybook/src/stories/Icon/Icon.tsx" />
         <option value="$PROJECT_DIR$/my-storybook/src/stories/Chip/Chip.stories.tsx" />
         <option value="$PROJECT_DIR$/my-storybook/src/stories/Chip/chip.sass" />
         <option value="$PROJECT_DIR$/my-storybook/src/stories/Chip/Chip.tsx" />
+        <option value="$PROJECT_DIR$/my-storybook/src/stories/Icon/icon.sass" />
+        <option value="$PROJECT_DIR$/my-storybook/src/stories/Badge/badge.sass" />
+        <option value="$PROJECT_DIR$/my-storybook/src/stories/Badge/Badge.stories.tsx" />
+        <option value="$PROJECT_DIR$/my-storybook/src/stories/Badge/Badge.tsx" />
       </list>
     </option>
   </component>
@@ -158,7 +143,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -184,10 +168,59 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="stories" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="MyStorybook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyStorybook" type="462c0819:PsiDirectoryNode" />
+              <item name="my-storybook" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="stories" type="462c0819:PsiDirectoryNode" />
+              <item name="Badge" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyStorybook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyStorybook" type="462c0819:PsiDirectoryNode" />
+              <item name="my-storybook" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="stories" type="462c0819:PsiDirectoryNode" />
+              <item name="Button" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyStorybook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyStorybook" type="462c0819:PsiDirectoryNode" />
+              <item name="my-storybook" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="stories" type="462c0819:PsiDirectoryNode" />
+              <item name="ButtonGroup" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyStorybook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyStorybook" type="462c0819:PsiDirectoryNode" />
+              <item name="my-storybook" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="stories" type="462c0819:PsiDirectoryNode" />
+              <item name="Chip" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyStorybook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyStorybook" type="462c0819:PsiDirectoryNode" />
+              <item name="my-storybook" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="stories" type="462c0819:PsiDirectoryNode" />
+              <item name="Icon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyStorybook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyStorybook" type="462c0819:PsiDirectoryNode" />
+              <item name="my-storybook" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="stories" type="462c0819:PsiDirectoryNode" />
+              <item name="Image" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -238,7 +271,8 @@
       <workItem from="1604665611416" duration="14936000" />
       <workItem from="1604846310541" duration="35510000" />
       <workItem from="1605008892168" duration="8134000" />
-      <workItem from="1605100815972" duration="10186000" />
+      <workItem from="1605100815972" duration="10344000" />
+      <workItem from="1605287237815" duration="8921000" />
     </task>
     <task id="LOCAL-00001" summary="Button component">
       <created>1604604913847</created>
@@ -296,17 +330,23 @@
       <option name="project" value="LOCAL" />
       <updated>1605113507562</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Chip">
+      <created>1605114802787</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1605114802787</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="114581000" />
+    <option name="totallyTimeSpent" value="123660000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28517398" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28971255" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -362,27 +402,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Chip" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/my-storybook/src/App.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-storybook/.storybook/preview.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-storybook/.storybook/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/Button/index.css" />
     <entry file="file://$PROJECT_DIR$/my-storybook/node_modules/@types/react/index.d.ts">
       <provider selected="true" editor-type-id="text-editor">
@@ -434,27 +453,10 @@
     <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/button.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/ButtonGroup/buttonGroup.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="20" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/my-storybook/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-276">
           <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/ButtonGroup/ButtonGroup.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="23" column="48" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -499,28 +501,9 @@
     <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/assets/direction.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/Page.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/Chip/Icon.tsx">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/Chip/icon.sass">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/Image/image.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/Page.tsx" />
+    <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/Chip/Icon.tsx" />
+    <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/Chip/icon.sass" />
     <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/Icon/Icon.tsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-340">
@@ -531,36 +514,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/Button/Button.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="23" column="65" lean-forward="true" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="65" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/Button.stories.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="41" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="41" />
-          <folding>
-            <element signature="e#113#170#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/Button.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="40" column="82" selection-start-line="40" selection-start-column="72" selection-end-line="40" selection-end-column="82" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/Button.stories.tsx" />
+    <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/Button.tsx" />
     <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/Button/Button.stories.tsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -581,10 +536,81 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/Header.stories.tsx" />
+    <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/Header.tsx" />
+    <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/header.css" />
+    <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/Introduction.stories.mdx">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/Image/Image.stories.tsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
+        <state relative-caret-position="544">
           <caret line="35" column="94" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="94" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/Image/image.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/ButtonGroup/buttonGroup.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="11" column="20" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/Button/button.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="27" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/Icon/icon.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/Chip/chip.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/ButtonGroup/ButtonGroup.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="68" lean-forward="true" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="68" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/Chip/Chip.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="55" column="76" selection-start-line="55" selection-start-column="66" selection-end-line="55" selection-end-column="76" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/Button/Button.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="38" column="22" lean-forward="true" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="22" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -593,67 +619,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/Chip/Chip.stories.tsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="41" column="20" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/Icon/icon.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/Button/button.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/Introduction.stories.mdx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1683" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/Header.stories.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#113#170#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/Header.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-306">
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/header.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/Chip/chip.sass">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+          <caret line="15" selection-start-line="15" selection-end-line="15" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/Chip/Chip.tsx">
+    <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/Badge/badge.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="59" column="54" selection-start-line="59" selection-start-column="54" selection-end-line="59" selection-end-column="54" />
+        <state relative-caret-position="493">
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/Badge/Badge.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="32" column="45" lean-forward="true" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-storybook/src/stories/Badge/Badge.stories.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1802">
+          <caret line="106" column="2" lean-forward="true" selection-start-line="106" selection-start-column="2" selection-end-line="106" selection-end-column="2" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
