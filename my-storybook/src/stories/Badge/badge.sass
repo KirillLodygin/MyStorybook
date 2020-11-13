@@ -31,32 +31,27 @@
 .badge_circle
   border-radius: 50%
 
-.warning,
-.alert,
-.success,
-.info
+%badge-color
   color: #FFF
 
 .warning
+  @extend %badge-color
   background-color: #D43728
 
 .alert
+  @extend %badge-color
   background-color: #EDE821
 
 .success
+  @extend %badge-color
   background-color: #08C008
 
 .info
+  @extend %badge-color
   background-color: #23C9FF
 
-.outer,
-.outer.warning,
-.outer.alert,
-.outer.success,
-.outer.info
-  background-color: #FFF
-
 .outer
+  background-color: #FFF
   color: grey
   border: 2px solid #EBEBEB
 
