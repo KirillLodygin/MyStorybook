@@ -17,12 +17,14 @@ export interface BadgeProps {
 	inline: boolean,
 	outer: boolean,
 	iconName: string,
+	buttonName: string
 
 	[propName: string]: any
 }
 
 export const Badge: React.FC<BadgeProps> = ({
 												iconName = 'badgeIcon',
+												buttonName = 'badgeButton',
 												value,
 												className = 'badge',
 												circle = false,
@@ -32,12 +34,12 @@ export const Badge: React.FC<BadgeProps> = ({
 											}) => {
 
 	return (
-		<button>
+		<button className={buttonName}>
 			<Icon className={[iconName,
 				(inline) ? 'large' : ''
 			].join(' ')}/>
 			<span
-				className = {[className,
+				className={[className,
 					(!value) ? 'badge_display' : '',
 					(typeof value === 'string') ? 'text' : '',
 					(circle) ? 'badge_circle' : '',

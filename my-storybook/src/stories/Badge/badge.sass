@@ -1,85 +1,4 @@
-.badge
-  position: absolute
-  top: -11px
-  right: -11px
-  background-color: #EBEBEB
-  padding: 2px
-  display: block
-  z-index: 9999
-  width: 22px
-  height: 22px
-  box-sizing: border-box
-  font-size: 12px
-  line-height: 16px
-  border-radius: 3px
-  color: #000
-  font-weight: 600
-  text-align: center
-
-.badge_display
-  display: none
-
-.inline
-  position: static
-  display: inline-block
-  margin-left: 10px
-
-.text
-  width : auto
-  padding: 4px
-
-.badge_circle
-  border-radius: 50%
-
-%badge-color
-  color: #FFF
-
-.warning
-  @extend %badge-color
-  background-color: #D43728
-
-.alert
-  @extend %badge-color
-  background-color: #EDE821
-
-.success
-  @extend %badge-color
-  background-color: #08C008
-
-.info
-  @extend %badge-color
-  background-color: #23C9FF
-
-.outer
-  background-color: #FFF
-  color: grey
-  border: 2px solid #EBEBEB
-
-.outer.warning
-  color: #D43728
-  border-color: #D43728
-
-.outer.alert
-  color: #EDE821
-  border-color: #EDE821
-
-.outer.success
-  color: #08C008
-  border-color: #08C008
-
-.outer.info
-  color: #214aff
-  border-color: #214aff
-
-.badgeIcon
-  position: relative
-  font-size: medium
-
-.badgeIcon.large
-  font-size: large
-  top: 4px
-
-button
+.badgeButton
   position: relative
   background-color: #7CC6fE
   color: whitesmoke
@@ -87,3 +6,84 @@ button
   border: none
   border-radius: 5px
   cursor: pointer
+
+  .badge
+    position: absolute
+    top: -11px
+    right: -11px
+    background-color: #EBEBEB
+    padding: 2px
+    display: block
+    z-index: 9999
+    width: 22px
+    height: 22px
+    box-sizing: border-box
+    font-size: 12px
+    line-height: 16px
+    border-radius: 3px
+    color: #000
+    font-weight: 600
+    text-align: center
+
+  .badge_display
+    display: none
+
+  .inline
+    position: static
+    display: inline-block
+    margin-left: 10px
+
+  .text
+    width : auto
+    padding: 4px
+
+  .badge_circle
+    border-radius: 50%
+
+  %badge-color
+    color: #FFF
+
+  .warning
+    @extend %badge-color
+    background-color: #D43728
+
+  .alert
+    @extend %badge-color
+    background-color: #EDE821
+
+  .success
+    @extend %badge-color
+    background-color: #08C008
+
+  .info
+    @extend %badge-color
+    background-color: #23C9FF
+
+  .outer
+    background-color: #FFF
+    color: grey
+    border: 2px solid #EBEBEB
+
+  .outer.warning
+    color: #D43728
+    border-color: #D43728
+
+  .outer.alert
+    color: #EDE821
+    border-color: #EDE821
+
+  .outer.success
+    color: #08C008
+    border-color: #08C008
+
+  .outer.info
+    color: #214aff
+    border-color: #214aff
+
+  .badgeIcon
+    position: relative
+    font-size: medium
+
+  .badgeIcon.large
+    font-size: large
+    top: 4px

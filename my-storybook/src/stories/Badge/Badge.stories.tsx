@@ -59,6 +59,27 @@ Outer_warning_Badge.args = {
 	warning: true
 };
 
+export const Outer_info_Badge = Template.bind({});
+Outer_info_Badge.args = {
+	value: 2,
+	outer: true,
+	info: true
+};
+
+export const Outer_alert_Badge = Template.bind({});
+Outer_alert_Badge.args = {
+	value: 2,
+	outer: true,
+	alert: true
+};
+
+export const Outer_success_Badge = Template.bind({});
+Outer_success_Badge.args = {
+	value: 2,
+	outer: true,
+	success: true
+};
+
 export const Circle_warning_Badge = Template.bind({});
 Circle_warning_Badge.args = {
 	value: 5,
